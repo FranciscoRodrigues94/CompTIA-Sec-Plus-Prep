@@ -6,7 +6,7 @@ This folder contains detailed study notes for the domain covering **Security Arc
 
 ## Study Sections:
 
-* **[3.1 Compare and contrast security implications of different architecture models.](3.0-Architecture-Models.md)**
+* **[3.1 Compare and contrast security implications of different architecture models.](3.1_Architecture-Models.md)**
     * Architecture and infrastructure concepts
         * Cloud
             * Responsibility matrix
@@ -43,7 +43,7 @@ This folder contains detailed study notes for the domain covering **Security Arc
         * Power
         * Compute
 
-* **[3.2 Given a scenario, apply security principles to secure enterprise infrastructure.](3.1-Secure-Enterprise-Infrastructure.md)**
+* **[3.2 Given a scenario, apply security principles to secure enterprise infrastructure.](3.2_Secure-Enterprise-Infrastructure.md)**
     * Infrastructure considerations
         * Device placement
         * Security zones
@@ -79,7 +79,7 @@ This folder contains detailed study notes for the domain covering **Security Arc
         * Secure Access Service Edge (SASE)
     * Selection of effective controls
 
-* **[3.3 Compare and contrast concepts and strategies to protect data.](3.2-Data-Protection-Strategies.md)**
+* **[3.3 Compare and contrast concepts and strategies to protect data.](3.3_Concepts-and-Strategies-to-Protect-Data.md)**
     * Data types
         * Regulated
         * Trade secret
@@ -111,7 +111,7 @@ This folder contains detailed study notes for the domain covering **Security Arc
         * Segmentation
         * Permission restrictions
 
-* **[3.4 Explain the importance of resilience and recovery in security architecture.](3.3-Resilience-Recovery.md)**
+* **[3.4 Explain the importance of resilience and recovery in security architecture.](3.4_Resilience-and-Recovery-in-Security-Architecture.md)**
     * High availability
         * Load balancing vs. clustering
     * Site considerations
