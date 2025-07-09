@@ -6,7 +6,7 @@ This folder contains detailed study notes for the domain covering **Threats, Vul
 
 ## Study Sections:
 
-* **[2.0 Compare and contrast common threat actors and motivations.](2.0-Threat-Actors-Motivations.md)**
+* **[2.1 Compare and contrast common threat actors and motivations.](2.1_Common-Threat-Actors-and-Motivation.md)**
     * Threat actors
         * Nation-state
         * Unskilled attacker
@@ -30,7 +30,7 @@ This folder contains detailed study notes for the domain covering **Threats, Vul
         * Disruption/chaos
         * War
 
-* **[2.1 Explain common threat vectors and attack surfaces.](2.1-Threat-Vectors-Attack-Surfaces.md)**
+* **[2.2 Explain common threat vectors and attack surfaces.](2.2_Various-Types-of-Vulnerabilities.md)**
     * Message-based
         * Email
         * Short Message Service (SMS)
@@ -64,7 +64,7 @@ This folder contains detailed study notes for the domain covering **Threats, Vul
         * Brand impersonation
         * Typosquatting
 
-* **[2.2 Explain various types of vulnerabilities.](2.2-Vulnerability-Types.md)**
+* **[2.3 Explain various types of vulnerabilities.](2.3_Types-of-Vulnerabilities.md)**
     * Application
         * Memory injection
         * Buffer overflow
@@ -95,7 +95,7 @@ This folder contains detailed study notes for the domain covering **Threats, Vul
         * Jailbreaking
     * Zero-day
 
-* **[2.3 Given a scenario, analyze indicators of malicious activity.](2.3-Malicious-Activity-Indicators.md)**
+* **[2.4 Given a scenario, analyze indicators of malicious activity.](2.4_Indicators_of_Malicious_Activity.md)**
     * Malware attacks
         * Ransomware
         * Trojan
@@ -144,7 +144,7 @@ This folder contains detailed study notes for the domain covering **Threats, Vul
         * Published/documented
         * Missing logs
 
-* **[2.4 Explain the purpose of mitigation techniques used to secure the enterprise.](2.4-Mitigation-Techniques.md)**
+* **[2.5 Explain the purpose of mitigation techniques used to secure the enterprise.](2.5_Purpose_of_Mitigation_Techniques.md)**
     * Segmentation
     * Access control
         * Access control list (ACL)
