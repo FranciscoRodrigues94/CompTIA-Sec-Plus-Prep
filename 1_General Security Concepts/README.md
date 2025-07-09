@@ -7,11 +7,11 @@ The topics covered here are essential for building a strong understanding of sec
 
 ## Study Sections:
 
-* **[1.1 Compare and Contrast Security Controls](1.0-Compare-Contrast-Security-Controls.md)**
+* **[1.1 Compare and Contrast Security Controls](1.1-Compare-and-Contrast-Security-Controls.md)**
     * Categories (Technical, Managerial, Operational, Physical)
     * Control Types (Preventive, Deterrent, Detective, Corrective, Compensating, Directive)
 
-* **[1.2 Summarize Fundamental Security Concepts](1.1-Summarize-Fundamental-Security-Concepts.md)**
+* **[1.2 Summarize Fundamental Security Concepts](1.2_Summarize-Fundamental-Security-Concepts.md)**
     * Confidentiality, Integrity, and Availability (CIA)
     * Non-repudiation
     * Authentication, Authorization, and Accounting (AAA)
@@ -20,7 +20,7 @@ The topics covered here are essential for building a strong understanding of sec
     * Physical Security (Bollards, Fencing, Video Surveillance, etc.)
     * Deception and Disruption Technology (Honeypot, Honeynet, etc.)
 
-* **[1.3 Explain the importance of change management processes and the impact to security.](1.3-Change-Management-Processes.md)**
+* **[1.3 Explain the importance of change management processes and the impact to security.](1.3_Importance-of-Change-Management-Processes-and-the-Impact-to-Security.md)**
     * Business processes impacting security operations
         * Approval process
         * Ownership
@@ -43,7 +43,7 @@ The topics covered here are essential for building a strong understanding of sec
         * Updating policies/procedures
     * Version control
 
-* **[1.4 Explain the importance of using appropriate cryptographic solutions.](1.4-Cryptographic-Solutions.md)**
+* **[1.4 Explain the importance of using appropriate cryptographic solutions.](1.4_Appropriate-Cryptographic-Solutions.md)**
     * Public key infrastructure (PKI)
         * Public key
         * Private key
