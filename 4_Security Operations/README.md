@@ -6,7 +6,7 @@ This folder contains detailed study notes for the domain covering **Security Ope
 
 ## Study Sections:
 
-* **[4.1 Given a scenario, apply common security techniques to computing resources.](4.1-Security-Techniques.md)**
+* **[4.1 Given a scenario, apply common security techniques to computing resources.](4.1_Security-Techniques-to-Computing-Resources.md)**
     * Secure baselines
         * Establish
         * Deploy
@@ -49,7 +49,7 @@ This folder contains detailed study notes for the domain covering **Security Ope
     * Sandboxing
     * Monitoring
 
-* **[4.2 Explain the security implications of proper hardware, software, and data asset management.](4.1-Asset-Management.md)**
+* **[4.2 Explain the security implications of proper hardware, software, and data asset management.](4.2_Asset-Management.md)**
     * Acquisition/procurement process
     * Assignment/accounting
         * Ownership
@@ -63,7 +63,7 @@ This folder contains detailed study notes for the domain covering **Security Ope
         * Certification
         * Data retention
 
-* **[4.3 Explain various activities associated with vulnerability management.](4.2-Vulnerability-Management.md)**
+* **[4.3 Explain various activities associated with vulnerability management.](4.3_Vulnerability-Management.md)**
     * Identification methods
         * Vulnerability scan
         * Application security
@@ -103,7 +103,7 @@ This folder contains detailed study notes for the domain covering **Security Ope
         * Verification
     * Reporting
 
-* **[4.4 Explain security alerting and monitoring concepts and tools.](4.3-Alerting-Monitoring.md)**
+* **[4.4 Explain security alerting and monitoring concepts and tools.](4.4_Security-Alerting-and-Monitoring.md)**
     * Monitoring computing resources
         * Systems
         * Applications
@@ -128,7 +128,7 @@ This folder contains detailed study notes for the domain covering **Security Ope
         * NetFlow
         * Vulnerability scanners
 
-* **[4.5 Given a scenario, modify enterprise capabilities to enhance security.](4.4-Enhance-Enterprise-Security.md)**
+* **[4.5 Given a scenario, modify enterprise capabilities to enhance security.](4.5_Enhance-Enterprise-Security.md)**
     * Firewall
         * Rules
         * Access lists
@@ -163,7 +163,7 @@ This folder contains detailed study notes for the domain covering **Security Ope
     * Endpoint detection and response (EDR)/extended detection and response (XDR)
     * User behavior analytics
 
-* **[4.6 Given a scenario, implement and maintain identity and access management.](4.5-Identity-Access-Management.md)**
+* **[4.6 Given a scenario, implement and maintain identity and access management.](4.6_Identity-and-Access-Management.md)**
     * Provisioning/de-provisioning user accounts
     * Permission assignments and implications
     * Identity proofing
@@ -206,7 +206,7 @@ This folder contains detailed study notes for the domain covering **Security Ope
         * Password vaulting
         * Ephemeral credentials
 
-* **[4.7 Explain the importance of automation and orchestration related to secure operations.](4.6-Automation-Orchestration.md)**
+* **[4.7 Explain the importance of automation and orchestration related to secure operations.](4.7_Automation-and-Orchestration.md)**
     * Use cases of automation and scripting
         * User provisioning
         * Resource provisioning
@@ -232,7 +232,7 @@ This folder contains detailed study notes for the domain covering **Security Ope
         * Technical debt
         * Ongoing supportability
 
-* **[4.8 Explain appropriate incident response activities.](4.7-Incident-Response.md)**
+* **[4.8 Explain appropriate incident response activities.](4.8_Incident-Response.md)**
     * Process
         * Preparation
         * Detection
@@ -255,7 +255,7 @@ This folder contains detailed study notes for the domain covering **Security Ope
         * Preservation
         * E-discovery
 
-* **[4.9 Given a scenario, use data sources to support an investigation.](4.8-Data-Sources-Investigation.md)**
+* **[4.9 Given a scenario, use data sources to support an investigation.](4.9_Data-Sources-for-Investigation.md)**
     * Log data
         * Firewall logs
         * Application logs
